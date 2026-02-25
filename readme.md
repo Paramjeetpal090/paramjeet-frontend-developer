@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-🔗 (Yaha apna deployed website link add karo – Netlify / Vercel)
+🔗 https://paramjeetpal090.github.io/paramjeet-frontend-developer/
 
 ---
 
